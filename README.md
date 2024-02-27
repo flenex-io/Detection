@@ -11,4 +11,19 @@ This project demonstrates face detection using OpenCV. It uses the Haar Cascade 
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/flenex-io/Face-Detection.git
+   ```
+
+2. Change the directory
+
+   ```bash
+   cd Face-Detection
+   ```
+
+3. Install the dependencies
+
+   ```bash
+   pip install opencv-python
+   ```
+
+4. Run the project
