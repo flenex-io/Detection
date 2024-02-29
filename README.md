@@ -1,6 +1,6 @@
 # Face Detection with OpenCV
 
-This project demonstrates face detection using OpenCV. It uses the Haar Cascade classifier for detecting faces in real-time through the webcam.
+This project demonstrates face detection and finger detection with trail creation using OpenCV. It uses the Haar Cascade classifier to detect real-time faces and fingers through the webcam.
 
 ## Prerequisites
 
@@ -17,7 +17,7 @@ This project demonstrates face detection using OpenCV. It uses the Haar Cascade 
 2. Change the directory
 
    ```bash
-   cd Face-Detection
+   cd Detection
    ```
 
 3. Install the dependencies
