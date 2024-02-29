@@ -11,7 +11,7 @@ This project demonstrates face detection and finger detection with trail creatio
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/flenex-io/Face-Detection.git
+   git clone https://github.com/flenex-io/Detection.git
    ```
 
 2. Change the directory
