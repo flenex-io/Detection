@@ -1,4 +1,4 @@
-# Face Detection with OpenCV
+# Detection with OpenCV
 
 This project demonstrates face detection and finger detection with trail creation using OpenCV. It uses the Haar Cascade classifier to detect real-time faces and fingers through the webcam.
 
