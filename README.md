@@ -27,3 +27,5 @@ This project demonstrates face detection and finger detection with trail creatio
    ```
 
 4. Run the project
+
+## Open For Contributions
